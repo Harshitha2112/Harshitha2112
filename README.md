@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                𝙷𝚒 𝚝𝚑𝚎𝚛𝚎👋🏼,𝙸'𝚖 𝙷𝚊𝚛𝚜𝚑𝚒𝚝𝚑𝚊
 IM CURRENTLY A STUDENT<br>
 
 [![](https://visitcount.itsvg.in/api?id=Harshitha2112&icon=0&color=0)](https://visitcount.itsvg.in)
