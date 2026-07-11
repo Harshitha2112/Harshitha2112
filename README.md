@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshitha U</h1>
 
-<h3 align="center">Aspiring Data Scientist | Data Analyst| Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
 
 ---
 
