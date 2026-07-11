@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harshitha U</h1>
 
-<h3 align="center">Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst| Machine Learning Enthusiast</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🌱 Currently learning **Data Science, Machine Learning & Deep Learning**
-- 🐍 Python Developer
 - 📊 Passionate about Data Analysis & Visualization
 - 🚀 Building real-world Data Science Projects
 - 💡 Always learning new technologies
