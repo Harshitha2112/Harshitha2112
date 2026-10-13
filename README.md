@@ -86,26 +86,3 @@ learning.
 `<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshitha2112&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Harshitha's GitHub statistics" />`{=html}
 `<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha2112&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />`{=html}
 :::
----
-⚡ Contribution Activity
-::: {align="center"}
-![Harshitha's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Harshitha2112&theme=tokyo-night&hide_border=true)
-:::
----
-🎯 Current Focus
-Strengthening my foundations in data science and machine learning
-Practicing SQL and solving coding problems
-Improving model evaluation and comparing machine learning approaches
-Developing practical projects that solve real-world problems
----
-🤝 Connect With Me
-::: {align="center"}
-![GitHub](https://img.shields.io/badge/GitHub-Harshitha2112-181717?style=for-the-badge&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)
-![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-:::
----
-::: {align="center"}
-💜 Thanks for visiting my profile!
-Always learning. Always building. Always improving.
-:::
