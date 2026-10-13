@@ -1,4 +1,4 @@
-@@ -1,29 +1,82 @@
+
 <h1 align="center">Hi 👋, I'm Harshitha U</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
